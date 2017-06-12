@@ -1,9 +1,12 @@
 package com.namul.welcome;
 
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
+import android.view.View;
+import android.widget.Toast;
 
 import com.facebook.CallbackManager;
 import com.facebook.FacebookCallback;
@@ -59,6 +62,22 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
+    }
+
+    public void onBtn1Clicked (View v) {
+        Toast.makeText(this, "버튼이 눌렸어요", Toast.LENGTH_LONG).show();
+        Intent intent = new Intent(this, MenuActivity.class);
+        startActivity(intent);
+    }
+
+    public void onBtn2Clicked (View v) {
+        Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://m.naver.com"));
+        startActivity(intent);
+    }
+
+    public void onBtn3Clicked (View v) {
+        Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("tel:010-3220-0777"));
+        startActivity(intent);
     }
 
     @Override
