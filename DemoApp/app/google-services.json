@@ -1,35 +1,35 @@
 {
   "project_info": {
-    "project_number": "449897689806",
-    "firebase_url": "https://demoapp-3a73e.firebaseio.com",
-    "project_id": "demoapp-3a73e",
-    "storage_bucket": "demoapp-3a73e.appspot.com"
+    "project_number": "181287627905",
+    "firebase_url": "https://fir-app-bb3fe.firebaseio.com",
+    "project_id": "fir-app-bb3fe",
+    "storage_bucket": "fir-app-bb3fe.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:449897689806:android:26cc2e8f9a11032e",
+        "mobilesdk_app_id": "1:181287627905:android:26cc2e8f9a11032e",
         "android_client_info": {
           "package_name": "com.gamearena.demoapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "449897689806-a2trsh1u481h3ut5u9o3am0l1m05jo94.apps.googleusercontent.com",
+          "client_id": "181287627905-64pg0c1aap8v6ejuukohbl0h72ju74l0.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.gamearena.demoapp",
-            "certificate_hash": "8f395cc659119e61d6eac96be6ba842cdf77e299"
+            "certificate_hash": "f90320edc5013725d910ee0b2af39cb07fd4c65d"
           }
         },
         {
-          "client_id": "449897689806-8oem47u2o80nt2306eph379intf4h7r8.apps.googleusercontent.com",
+          "client_id": "181287627905-nsaq60rro77i97lnocf7e8ahloemhbq0.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCFUvxqRlDXPx3jCy3lB-XuZS080KTyH8I"
+          "current_key": "AIzaSyDN3RuWVWw5vQXuYQtfjjsMTyokHNwTvC4"
         }
       ],
       "services": {
@@ -40,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "449897689806-8oem47u2o80nt2306eph379intf4h7r8.apps.googleusercontent.com",
+              "client_id": "181287627905-nsaq60rro77i97lnocf7e8ahloemhbq0.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
