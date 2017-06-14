@@ -2,7 +2,6 @@ package com.gamearena.demoapp;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-import com.google.firebase.analytics.FirebaseAnalytics;
 
 //private FirebaseAnalytics mFirebaseAnalytics;
 
