@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "449897689806",
+    "firebase_url": "https://demoapp-3a73e.firebaseio.com",
+    "project_id": "demoapp-3a73e",
+    "storage_bucket": "demoapp-3a73e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449897689806:android:26cc2e8f9a11032e",
+        "android_client_info": {
+          "package_name": "com.gamearena.demoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449897689806-a2trsh1u481h3ut5u9o3am0l1m05jo94.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gamearena.demoapp",
+            "certificate_hash": "8f395cc659119e61d6eac96be6ba842cdf77e299"
+          }
+        },
+        {
+          "client_id": "449897689806-8oem47u2o80nt2306eph379intf4h7r8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFUvxqRlDXPx3jCy3lB-XuZS080KTyH8I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449897689806-8oem47u2o80nt2306eph379intf4h7r8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
