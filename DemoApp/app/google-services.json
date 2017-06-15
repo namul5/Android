@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "312715366782",
-    "firebase_url": "https://fir-app-8db96.firebaseio.com",
-    "project_id": "fir-app-8db96",
-    "storage_bucket": "fir-app-8db96.appspot.com"
+    "project_number": "321927587973",
+    "firebase_url": "https://fir-app-2db78.firebaseio.com",
+    "project_id": "fir-app-2db78",
+    "storage_bucket": "fir-app-2db78.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:312715366782:android:26cc2e8f9a11032e",
+        "mobilesdk_app_id": "1:321927587973:android:26cc2e8f9a11032e",
         "android_client_info": {
           "package_name": "com.gamearena.demoapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "312715366782-3tkgpc5dhj56mdvsfb019139otp9clii.apps.googleusercontent.com",
+          "client_id": "321927587973-o2hcn24dhshke649qu7crd1dvf5kd5th.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.gamearena.demoapp",
@@ -23,13 +23,13 @@
           }
         },
         {
-          "client_id": "312715366782-r064csesclo3hmhlgj42uv44brnnmch9.apps.googleusercontent.com",
+          "client_id": "321927587973-dvujrill68hvlf8e1lbbmsafu0gn4ie0.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBhnvRNW6Fcgy9A0vsjZnk8bFoHATXlXVQ"
+          "current_key": "AIzaSyCAfnxNU51JufDFTYFGTpF2lQOzlsSHNlo"
         }
       ],
       "services": {
@@ -40,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "312715366782-r064csesclo3hmhlgj42uv44brnnmch9.apps.googleusercontent.com",
+              "client_id": "321927587973-dvujrill68hvlf8e1lbbmsafu0gn4ie0.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

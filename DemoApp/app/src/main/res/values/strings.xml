@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">DemoApp</string>
     <string name="facebook_app_id">1076846799083010</string>
-
+    <string name="server_client_id">321927587973-o2hcn24dhshke649qu7crd1dvf5kd5th.apps.googleusercontent.com</string>
+    <string name="fb_login_protocol_scheme">fb1076846799083010</string>
 </resources>
